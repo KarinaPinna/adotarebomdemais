@@ -1,0 +1,72 @@
+body  {  	
+	background: rgb(74,222,206);
+} 
+	
+#logo{
+	width:200px;
+	height:94px;
+}
+
+.item_menu{
+	position: relative;
+	padding: 25px;	
+	height: 36px;
+	padding-top: 50px;
+	line-height: 36px;
+	font-family: amarelinhaBold,'Trabuchet MS',sans-serif;
+	font-weight: normal;
+	font-size: 24px;
+	color:#fff;
+	text-decoration: none;
+}
+
+#menu{	
+	padding-right: 15px;
+    padding-left: 670px;
+    margin-right: auto;
+    margin-left: auto;
+	margin-top: -37px;	
+}
+
+#navbar{	
+	background: rgb(132,80,47);
+	/* color: rgb(132,80,47); */
+	font-family: amarelinhaBold,'Trabuchet MS',sans-serif;
+	position:fixed;
+	right:0;
+	left:0;
+}
+
+.produto-box{
+	padding: 15px;
+	border: 1px dotted #333;
+	background-color: #f7f7f7;
+	width: 300px;
+	float:left; /*se adequa de acordo com o tamanho da página */
+	box-shadow:0px 0px 20px #888;
+	margin:5px;
+}
+
+.produto-box p{
+	font-size: 24px;
+	color: #004;
+	margin: 0px;
+}
+
+.local{
+	float: right;
+	font-size: 14px !important; /*prioriza o "p" ao inves da classe "local" */
+}
+
+.lupa{
+	position: relative;
+	float:right;
+	top:-30px;
+	right:10px;
+}
+
+#content{
+	margin:0 auto;
+	width: 760px;	
+}
+

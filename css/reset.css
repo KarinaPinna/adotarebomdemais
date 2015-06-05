@@ -1,0 +1,30 @@
+/* reset */
+
+/* site de dicas:
+http://www.devmedia.com.br/como-utilizar-a-tecnica-css-reset/2679 */
+
+/* CSS Reset serve para padronizar a visualização básica de páginas HTML, removendo todos os estilos aplicados originalmente pelo browser e que podem variar entre os navegadores, causando problemas com o layout. 
+Por isso que no arquivo html ele é lincado primeiro */
+
+* {
+	margin: 0px;
+	
+	/* Uma propriedade estenográfica para especificar as propriedades das margens em uma declaração */
+	
+	padding: 0px;
+}
+
+body,h1,h2,h3,h4,j5,h6,p,div {
+	margin: 0px;	
+	padding: 0px;
+}
+body {
+	font-family: Verdana;
+	
+	/* Uma lista priorizada de nomes de famílias de fontes e/ou nomes de famílias genéricos para um elemento */
+	
+	/* font-family: Helvetica, Geneva, Arial,SunSans-Regular, sans-serif 
+	caso o usuário não tenha a primeira fonte instalada, o browser pula para a próxima, se todas estiverem indisponíveis o browser do visitante usará uma fonte (with serif) com serifas*/	
+
+	/* serifas é o acabamento (pesinho) de cada traço de uma fonte */
+}
