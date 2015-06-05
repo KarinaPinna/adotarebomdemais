@@ -1,0 +1,51 @@
+body  {  	
+	background: rgb(74,222,206);
+} 
+	
+#logo{
+	width:200px;
+	height:94px;
+}
+
+.item_menu{
+	position: relative;
+	padding: 25px;	
+	height: 36px;
+	padding-top: 50px;
+	line-height: 36px;
+	font-family: amarelinhaBold,'Trabuchet MS',sans-serif;
+	font-weight: normal;
+	font-size: 24px;
+	color:#fff;
+	text-decoration: none;
+}
+
+#menu{	
+	padding-right: 15px;
+    padding-left: 670px;
+    margin-right: auto;
+    margin-left: auto;
+	margin-top: -37px;	
+}
+
+#navbar{	
+	background: rgb(132,80,47);
+	/* color: rgb(132,80,47); */
+	font-family: amarelinhaBold,'Trabuchet MS',sans-serif;
+	position:fixed;
+	right:0;
+	left:0;
+}
+
+#foto{
+	width:320px;
+	height:300px;
+}
+
+.contato{
+	margin-top: 100px;
+	margin-left: 500px;
+	position: absolute;
+	width:20%;
+	padding-left:30px;
+}

@@ -1,0 +1,126 @@
+body  {  	
+	background: rgb(74,222,206);
+} 
+	
+#logo{
+	width:200px;
+	height:94px;
+}
+
+.item_menu{
+	position: relative;
+	padding: 25px;	
+	height: 36px;
+	padding-top: 50px;
+	line-height: 36px;
+	font-family: amarelinhaBold,'Trabuchet MS',sans-serif;
+	font-weight: normal;
+	font-size: 24px;
+	color:#fff;
+	text-decoration: none;
+}
+
+#menu{	
+	padding-right: 15px;
+    padding-left: 670px;
+    margin-right: auto;
+    margin-left: auto;
+	margin-top: -37px;	
+}
+
+#navbar{	
+	background: rgb(132,80,47);
+	/* color: rgb(132,80,47); */
+	font-family: amarelinhaBold,'Trabuchet MS',sans-serif;
+	position:fixed;
+	right:0;
+	left:0;
+}
+
+#galeria{
+}
+
+.lado {
+	float: left;		
+}
+
+#gde{
+	margin-top: 120px;
+	margin-left: 440px;
+	width:500px;
+	height:300px;
+}
+
+
+
+.flecha{
+	position: relative;
+	width:50px;
+	top:214px;
+	margin: 30px;
+	margin-left: -640px;
+}
+
+#esq{
+	margin-left: 640px;
+}
+
+
+
+#sobre{
+	margin-left: 230px;
+	margin-top: 350px;
+	margin-right: 230px;
+	background: rgb(88,234,219);
+}
+
+h6{
+	position: relative;
+	float: right;
+}
+
+#espaco{
+	width:420px;
+	height:195px;
+}
+
+#legenda{
+	background: rgba(0,0,0,0.6); /*rgb é a cor e o "a" é a opacidade */
+	position: relative;
+	top: 0px;
+	margin-left: 440px;
+	padding:10px;
+	color: #fff;
+}
+
+.contact1{
+	position: relative;
+	float: left;
+	width:20%;
+	padding-left:10px;
+}
+
+.contact2{
+	position: relative;
+	width:20%;
+	float: left;
+	padding-left:10px;
+}
+
+#face{
+	width:150px;
+	height:50px;
+}
+
+.contact3{
+	position: relative;
+	width:20%;
+	float: left;
+	padding-left:10px;
+}
+
+#footer{
+	margin-left: 300px;
+	padding: 50px;
+}
+
